@@ -4,7 +4,7 @@ body {
     background: linear-gradient(to right, #ff9a9e, #fad0c4);
     padding: 50px;
 }
-input {
+input[type="text"] {
     width: 250px;
     padding: 10px;
     font-size: 18px;
